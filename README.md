@@ -1,7 +1,7 @@
 # csrf-secure
 this class to secure from csrf attack
 
-#usage
+# usage
 ```
 <?php include "csrf.php"; 
 csrf::start_csrf();
